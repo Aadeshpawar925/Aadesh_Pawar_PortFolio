@@ -11,7 +11,7 @@ const Projects = () => {
           desc: "This portfolio showcases my journey as a Full-Stack Developer, highlighting my skills in creating dynamic, user-centric web applications. Explore my projects, achievements, and expertise in technologies like React, Java, and MySQL, reflecting my passion for solving real-world challenges through code.",
           image: AadiPortFolio,
           live: "",
-          github: ""
+          github: "https://github.com/Aadeshpawar925/Aadesh_Pawar_PortFolio",
         },
        {
         title: 'SalonIt',
